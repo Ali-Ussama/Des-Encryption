@@ -9,8 +9,10 @@ you could find DES descriptin <a href="https://goo.gl/XcVN8Z">here</a>
 `View` Package contain all the interaction views
 `Model` Package contains all the DES algorithm, functions and logic
 
+The App will start with a sample of plain text and a sample key if you want to text the algorithm
 ## Features:
-- Encrypt and Decrypt plain texts via a Key
+- Encrypt plain texts via a key and get the decrypted cipher text.
+- Decrypt cipher texts via a Key and get the original plain text.
 
 ## Libraries and Tools
 - simple android TextView and RecyclerView.
