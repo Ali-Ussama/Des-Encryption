@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DES</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="message">Message</string>
+    <string name="key">Key</string>
+    <string name="hexa">Hexadecimal</string>
+    <string name="normal">Normal</string>
+    <string name="binary">Binary</string>
+    <string name="ciphertext">CipherText</string>
+    <string name="plaintext">PlainText</string>
+    <string name="ip">Initial Permutation</string>
+    <string name="messageBlock">Message Block</string>
+    <string name="_16_rounds">16 Rounds</string>
+    <string name="ip_inverse">IP Inverse</string>
+    <string name="swap">Swap :</string>
+</resources>
